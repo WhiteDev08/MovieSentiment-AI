@@ -114,3 +114,12 @@ This project is licensed under the MIT License.
 ---
 
 Dataset : https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+---
+## 🧼 Streamlit 
+
+![image](https://github.com/user-attachments/assets/8887c23c-40a1-4218-9e39-ffce37dd2a5c)
+
+![image](https://github.com/user-attachments/assets/869e7ead-e517-4e3b-b32f-0bad5684cbcb)
+
+

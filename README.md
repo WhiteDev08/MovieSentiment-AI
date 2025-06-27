@@ -109,3 +109,8 @@ Made with ❤️ by **WhiteDev08**
 ## 📜 License
 
 This project is licensed under the MIT License.
+
+
+---
+
+Dataset : https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
